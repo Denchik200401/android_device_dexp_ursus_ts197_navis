@@ -1,1 +1,1 @@
-# android_device_dexp_ursus_ts197_navis
+# Недоработанная версия дерева DEXP Ursus TS197 Navis
